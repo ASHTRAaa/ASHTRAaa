@@ -1,8 +1,8 @@
 Hey fellas i am anon !
 
-💻 FullStack WebDeveloper | MERN is the stack that i use nowadays 
-🌱   Currently trying to be good a good engineer 
-🚀 Passionate about building scalable web apps and solving problems.
+### **💻 FullStack WebDeveloper | MERN is the stack that i use nowadays** 
+### **🌱 Currently trying to be a good engineer**
+### **🚀 Passionate about building scalable web apps and solving problems.**
 
 ### 🛠 Tech Stack
 
