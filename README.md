@@ -1,4 +1,4 @@
-Hey fellas i am anon !
+Hey fellas !
 
 ### **💻 FullStack WebDeveloper | MERN is the stack that i use nowadays** 
 ### **🌱 Currently trying to be a good engineer**
